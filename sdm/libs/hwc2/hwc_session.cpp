@@ -53,7 +53,7 @@
 #define HWC_UEVENT_GRAPHICS_FB0 "change@/devices/virtual/graphics/fb0"
 #define HWC_UEVENT_DRM_EXT_HOTPLUG "mdss_mdp/drm/card"
 
-#define MAX_BRIGHTNESS 255
+#define MAX_BRIGHTNESS 1023
 #define BRIGHTNESS_FILE1 "/sys/class/leds/lcd-backlight/brightness"
 #define BRIGHTNESS_FILE2 "/sys/class/backlight/panel0-backlight/brightness"
 
